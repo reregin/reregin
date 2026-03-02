@@ -24,7 +24,7 @@ My core mission is to leverage Artificial Intelligence for a greater cause, buil
 
 ### 📌 Featured Projects
 
-> **🔵 [NEUROKIT](https://github.com/reregin/neurokit)** — Mobile Application <br>
+> **🔵 [NEUROKIT](https://github.com/reregin/neurokit)** — Mobile Application & IoT <br>
 >  *A multimodal neurotherapeutic toolkit that integrates gamification, generative AI, and Bluetooth-connected IoT devices to enhance student attention span and memory retention.*
 
 > **🔴 [CreditGuard](https://github.com/reregin/CreditGuard)** — Data Science <br>
