@@ -1,34 +1,57 @@
-# Welcome to Regina's page ✮⋆˙(˶ᵔ ᵕ ᵔ˶)
+<div align="center">
 
-Turning raw data into intelligent systems is what gets me excited about Machine Learning!
+<sub>welcome to my corner of github</sub>
 
-My core mission is to leverage Artificial Intelligence for a greater cause, building solutions that create a tangible, positive impact. I am currently mastering my skills in ML and actively seeking post-graduation roles where I can contribute to meaningful, data-driven projects.
+# hi, i'm Regina ✦
 
-### 🛠️ Main Techstack
+<p>ML engineer & web3 builder — turning raw data into intelligent systems<br>and shipping on-chain products that actually matter.</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PIMNAS Medalist](https://img.shields.io/badge/🏆%20PIMNAS-Bronze%20Medalist-ff9ecb?style=flat-square)
+![GEMASTIK](https://img.shields.io/badge/🌟%20GEMASTIK-Finalist%20×%202-cdb4db?style=flat-square)
+![CompTIA](https://img.shields.io/badge/CompTIA-Data%2B-ffd166?style=flat-square)
+![Solana](https://img.shields.io/badge/⛓%20Solana-Builder-bde0fe?style=flat-square)
 
-### 🏆 Relevant Experience
+</div>
 
-* **PIMNAS Medalist (2025)** — Bronze Medalist in the PKM-KC category for student research and innovation.
-* **GEMASTIK Finalist (2024, 2025)** — Recognized as a Finalist and awarded "The Most Inspiring Team" in the Data Mining division.
-* **Data Analytics Mentee, Metrodata Academy (2024)** — Completed SIBKM Batch 7, gaining proficiency in Power BI and Power Query, and successfully earned the CompTIA Data+ certification.
-* **Senior Machine Learning Engineer, UNSRAT IT Community (2024)** — Led a team of 8+ engineers to build a website chatbot utilizing cosine similarity.
-* **Machine Learning Engineer, UNSRAT IT Community (2023, 2024)** — Collaborated with a 15+ member team to finetune Llama 3.1 for a generative AI chatbot, and implemented KNN-VC for voice conversion in a deepfake project.
+---
 
-### 📌 Featured Projects
+### 🤖 ml & data
 
-> **🔵 [NEUROKIT](https://github.com/reregin/neurokit)** — Mobile Application & IoT <br>
->  *A multimodal neurotherapeutic toolkit that integrates gamification, generative AI, and Bluetooth-connected IoT devices to enhance student attention span and memory retention.*
+![Python](https://img.shields.io/badge/Python-ff9ecb?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-f7b2d9?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ffc8dd?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-bde0fe?style=for-the-badge&logo=mysql&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-a2d2ff?style=for-the-badge&logo=mlflow&logoColor=white)
 
-> **🔴 [CreditGuard](https://github.com/reregin/CreditGuard)** — Data Science <br>
-> *An end-to-end machine learning pipeline engineered to predict loan defaults (Charge-Offs) within highly imbalanced credit datasets.*
+### ⛓ web3 & web2
 
-**⚡ Fun Fact:** When I'm not training models, I'm likely editing as a hobby or re-watching *Hunter x Hunter* (the absolute #1 fiction of all time).
+![Next.js](https://img.shields.io/badge/Next.js-ffcad4?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-b8c0ff?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-bde0fe?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-cdb4db?style=for-the-badge&logo=solana&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-ffd166?style=for-the-badge&logo=bun&logoColor=white)
 
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regina-george)
+---
+
+### ✦ highlights
+
+| | |
+|---|---|
+| ⛓ **CORA** — real-time web3 PvP arena on Solana: escrow, Blink challenges & live battle state [↗](https://github.com/ahmdtrdi/Cora) | `2026` |
+| 🥉 **PIMNAS Bronze Medalist** — PKM-KC, NEUROKIT [↗](https://github.com/reregin/neurokit) | `2025` |
+| 🌟 **GEMASTIK "Most Inspiring Team"** — Data Mining division | `2024 · 2025` |
+| 🤖 **Senior ML Engineer, UNSRAT IT Community** — led 8-person team, finetuned Llama 3.1 & built cosine similarity chatbot | `2023 · 2024` |
+
+---
+
+> ⚡ when i'm not training models or shipping on-chain, i'm probably editing videos or rewatching *Hunter x Hunter* (the absolute #1 fiction of all time, no debate)
+
+---
+
+<div align="center">
+
+**open to roles in ML, data & web3 — let's connect!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff9ecb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regina-george)
+
+</div>
