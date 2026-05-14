@@ -29,7 +29,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-b8c0ff?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-bde0fe?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-cdb4db?style=for-the-badge&logo=solana&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-ffd166?style=for-the-badge&logo=bun&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-ffb3c6?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ---
 
