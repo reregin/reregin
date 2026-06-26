@@ -9,7 +9,7 @@
 ![PIMNAS Medalist](https://img.shields.io/badge/🏆%20PIMNAS-Bronze%20Medalist-ff9ecb?style=flat-square)
 ![GEMASTIK](https://img.shields.io/badge/🌟%20GEMASTIK-Finalist%20×%202-cdb4db?style=flat-square)
 ![CompTIA](https://img.shields.io/badge/CompTIA-Data%2B-ffd166?style=flat-square)
-![Solana](https://img.shields.io/badge/⛓%20Solana-Builder-bde0fe?style=flat-square)
+![Web3](https://img.shields.io/badge/⛓%20Web3-Builder-bde0fe?style=flat-square)
 
 </div>
 
@@ -29,6 +29,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-b8c0ff?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-bde0fe?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-cdb4db?style=for-the-badge&logo=solana&logoColor=white)
+![Sui](https://img.shields.io/badge/Sui-4CA2FF?style=for-the-badge&logo=sui&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-ffb3c6?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ---
@@ -37,7 +38,8 @@
 
 | | |
 |---|---|
-| ⛓ **CORA** — real-time web3 PvP arena on Solana: escrow, Blink challenges & live battle state [↗](https://github.com/ahmdtrdi/Cora) | `2026` |
+| 🤖⛓ **Linow** — AI audit agent with persistent verifiable memory on Walrus & Sui (Sui Overflow 2026) [↗](https://github.com/linowlabs/linow) | `2026` |
+| ⛓ **CORA** — real-time web3 PvP arena on Solana: escrow, Blink challenges & live battle state (Colosseum Frontier) [↗](https://github.com/ahmdtrdi/Cora) | `2026` |
 | 🥉 **PIMNAS Bronze Medalist** — PKM-KC, NEUROKIT [↗](https://github.com/reregin/neurokit) | `2025` |
 | 🌟 **GEMASTIK "Most Inspiring Team"** — Data Mining division | `2024 · 2025` |
 | 🤖 **Senior ML Engineer, UNSRAT IT Community** — led 8-person team, finetuned Llama 3.1 & built cosine similarity chatbot | `2023 · 2024` |
