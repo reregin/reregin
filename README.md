@@ -42,7 +42,7 @@
 | ⛓ **CORA** — real-time web3 PvP arena on Solana: escrow, Blink challenges & live battle state (Colosseum Frontier) [↗](https://github.com/ahmdtrdi/Cora) | `2026` |
 | 🥉 **PIMNAS Bronze Medalist** — PKM-KC, NEUROKIT [↗](https://github.com/reregin/neurokit) | `2025` |
 | 🌟 **GEMASTIK "Most Inspiring Team"** — Data Mining division | `2024 · 2025` |
-| 🤖 **Senior ML Engineer, UNSRAT IT Community** — led 8-person team, finetuned Llama 3.1 & built cosine similarity chatbot | `2023 · 2024` |
+| 🤖 **ML Engineer, UNSRAT IT Community** — led 8-person team, finetuned Llama 3.1 & built cosine similarity chatbot | `2023 · 2024` |
 
 ---
 
