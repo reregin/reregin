@@ -4,7 +4,7 @@
 
 # hi, i'm Regina ✦
 
-<p>ML engineer & web3 builder — turning raw data into intelligent systems<br>and shipping on-chain products that actually matter.</p>
+<p>AI/ML engineer & web3 builder — turning raw data into intelligent systems<br>and shipping on-chain products that actually matter.</p>
 
 ![PIMNAS Medalist](https://img.shields.io/badge/🏆%20PIMNAS-Bronze%20Medalist-ff9ecb?style=flat-square)
 ![GEMASTIK](https://img.shields.io/badge/🌟%20GEMASTIK-Finalist%20×%202-cdb4db?style=flat-square)
@@ -43,10 +43,6 @@
 | 🥉 **PIMNAS Bronze Medalist** — PKM-KC, NEUROKIT [↗](https://github.com/reregin/neurokit) | `2025` |
 | 🌟 **GEMASTIK "Most Inspiring Team"** — Data Mining division | `2024 · 2025` |
 | 🤖 **ML Engineer, UNSRAT IT Community** — led 8-person team, finetuned Llama 3.1 & built cosine similarity chatbot | `2023 · 2024` |
-
----
-
-> ⚡ when i'm not training models or shipping on-chain, i'm probably editing videos or rewatching *Hunter x Hunter* (the absolute #1 fiction of all time, no debate)
 
 ---
 
